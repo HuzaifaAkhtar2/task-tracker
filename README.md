@@ -10,7 +10,7 @@ Completed tasks will be moved to the end of the list and will have strikethrough
   View the detailed description and updates for my [Task tracker project](https://roadmap.sh/projects/task-tracker-js) on roadmap.sh.
 
 - **Support My Solution:**  
-  If you like my solution for the Tooltip UI project, [please upvote it here](https://roadmap.sh/projects/weather-app/solutions?u=6771443070129741a8ecdc00). Your support means a lot! 👍
+  If you like my solution for the Tooltip UI project, [please upvote it here](https://roadmap.sh/projects/task-tracker-js/solutions?u=6771443070129741a8ecdc00). Your support means a lot! 👍
 
 - **My Profile on roadmap.sh:**  
   Check out my achievements, projects, and solutions on my [roadmap.sh profile](https://roadmap.sh/u/huzaifaakhtar).
